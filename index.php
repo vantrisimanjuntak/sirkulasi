@@ -1,1 +1,4 @@
-<?= $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>
+<!-- <?= $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?> -->
+
+
+<?= phpinfo(); ?>
